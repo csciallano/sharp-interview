@@ -1,0 +1,84 @@
+[{
+	"firstName": "Colin",
+	"lastName": "Abbot",
+	"age": 34,
+	"skills": [
+		{
+			"name": "C#",
+			"type": "Backend",
+			"level": 9
+		},
+		{
+			"name": "JavaScript",
+			"type": "Frontend",
+			"level": 5
+		},
+		{
+			"name": "SQL",
+			"type": "Backend",
+			"level": 7
+		},
+		{
+			"name": "HTML",
+			"type": "Frontend",
+			"level": 3
+		}
+	]
+
+},
+{
+	"firstName": "Sarah",
+	"lastName": "Winchester",
+	"age": 34,
+	"skills": [
+		{
+			"name": "C#",
+			"type": "Backend",
+			"level": 1
+		},
+		{
+			"name": "JavaScript",
+			"type": "Frontend",
+			"level": 9
+		},
+		{
+			"name": "SQL",
+			"type": "Backend",
+			"level": 1
+		},
+		{
+			"name": "HTML",
+			"type": "Frontend",
+			"level": 10
+		}
+	]
+
+},
+{
+	"firstName": "Andrei",
+	"lastName": "Reeves",
+	"age": 37,
+	"skills": [
+		{
+			"name": "C#",
+			"type": "Backend",
+			"level": 5
+		},
+		{
+			"name": "JavaScript",
+			"type": "Frontend",
+			"level": 5
+		},
+		{
+			"name": "SQL",
+			"type": "Frontend",
+			"level": 5
+		},
+		{
+			"name": "HTML",
+			"type": "Frontend",
+			"level": 5
+		}
+	]
+
+}]
